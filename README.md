@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <h3> Hi there 👋 </h3>
+  <p><b> Explorer 🔎 | Thinker 🧠 | Builder 🧩 | Dreamer ✨ </b></p>
+  <p>Hack the world, enjoy the ride!</p>
 
-<!--
-**Youpen-y/Youpen-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <kbd>
+      <a href="mailto:yongy2022@outlook.com" target="_blank" title="Outlook">
+        <img src="https://img.shields.io/badge/-Mail-ff4500?style=flat&logo=gmail&logoColor=white" />
+      </a>
+    </kbd>
+  </p>
+</div>
