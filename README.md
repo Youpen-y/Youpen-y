@@ -1,7 +1,7 @@
 <div align="center">
   <h3> Hi there 👋 </h3>
   <p><b> Explorer 🔎 | Thinker 🧠 | Builder 🧩 | Dreamer ✨ </b></p>
-  <p>Hack the world, enjoy the ride!</p>
+  <p><em><strong>Hack the world, enjoy the ride!</strong></em></p>
 
   <p align="center">
     <kbd>
